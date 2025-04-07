@@ -12,9 +12,9 @@ public class ProcessoSeletivo {
             System.out.println("LIGAR PARA CANDIDATO");
 
         } else if (salarioBase == salarioPretendido)
-            System.out.println("LIGAR PARA CANDIDATO COM CONTRA PROPOSTA");
+            System.out.println("LIGAR PARA CANDIDATO COM CONTRA PROPOSTA!");
         else {
-            System.out.println("AGUARDANDO RESULTADO DOS DEMAIS CANDIDATOS");
+            System.out.println("AGUARDANDO RESULTADO DOS DEMAIS CANDIDATOS!");
 
         }
 
