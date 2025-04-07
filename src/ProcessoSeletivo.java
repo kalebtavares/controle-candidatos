@@ -1,6 +1,6 @@
 public class ProcessoSeletivo {
     public static void  main(String[] args) {
-    analisandoCandidato(1900.0);
+    analisandoCandidato(1950.0);
     analisandoCandidato(2200.0);
     analisandoCandidato(2000.0);
 
