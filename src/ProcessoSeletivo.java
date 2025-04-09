@@ -26,7 +26,7 @@ public class ProcessoSeletivo {
     }
 
     static double valorPretendido(){
-        return ThreadLocalRandom.current().nextDouble(1800,2200);
+        return ThreadLocalRandom.current().nextDouble(1810,2200);
     }
     static void  analisandoCandidato(double salarioPretendido) {
         double salarioBase = 2000.0;
